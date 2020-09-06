@@ -11,5 +11,3 @@ while i <= 3:
         break
 else:
     print('You have lost the game.')
-
-7
